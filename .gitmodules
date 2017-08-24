@@ -1,0 +1,3 @@
+[submodule "firmware/MouseJoystick"]
+	path = firmware/MouseJoystick
+	url = https://github.com/janelia-arduino/MouseJoystick.git
